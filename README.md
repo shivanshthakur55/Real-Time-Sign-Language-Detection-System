@@ -1,4 +1,4 @@
-![SignPal Logo](logo.jpg)
+
 
 Welcome to the SignPal project! This tool translates sign language gestures into real-time English captions.
 
